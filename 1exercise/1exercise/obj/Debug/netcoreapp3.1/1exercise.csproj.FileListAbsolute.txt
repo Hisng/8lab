@@ -1,0 +1,13 @@
+D:\projects\OOP\8lab\1exercise\1exercise\bin\Debug\netcoreapp3.1\1exercise.exe
+D:\projects\OOP\8lab\1exercise\1exercise\bin\Debug\netcoreapp3.1\1exercise.deps.json
+D:\projects\OOP\8lab\1exercise\1exercise\bin\Debug\netcoreapp3.1\1exercise.runtimeconfig.json
+D:\projects\OOP\8lab\1exercise\1exercise\bin\Debug\netcoreapp3.1\1exercise.runtimeconfig.dev.json
+D:\projects\OOP\8lab\1exercise\1exercise\bin\Debug\netcoreapp3.1\1exercise.dll
+D:\projects\OOP\8lab\1exercise\1exercise\bin\Debug\netcoreapp3.1\1exercise.pdb
+D:\projects\OOP\8lab\1exercise\1exercise\obj\Debug\netcoreapp3.1\1exercise.csprojAssemblyReference.cache
+D:\projects\OOP\8lab\1exercise\1exercise\obj\Debug\netcoreapp3.1\1exercise.AssemblyInfoInputs.cache
+D:\projects\OOP\8lab\1exercise\1exercise\obj\Debug\netcoreapp3.1\1exercise.AssemblyInfo.cs
+D:\projects\OOP\8lab\1exercise\1exercise\obj\Debug\netcoreapp3.1\1exercise.csproj.CoreCompileInputs.cache
+D:\projects\OOP\8lab\1exercise\1exercise\obj\Debug\netcoreapp3.1\1exercise.dll
+D:\projects\OOP\8lab\1exercise\1exercise\obj\Debug\netcoreapp3.1\1exercise.pdb
+D:\projects\OOP\8lab\1exercise\1exercise\obj\Debug\netcoreapp3.1\1exercise.genruntimeconfig.cache
